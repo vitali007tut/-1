@@ -25,5 +25,4 @@ public class Task4 {
 		System.out.println("Поменяем местами дробную и целую части числа");
 		System.out.println(x + "." + y);
 	}
-
 }
